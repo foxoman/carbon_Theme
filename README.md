@@ -8,22 +8,25 @@ If you like this theme, you can use it for free appreciate your support to have 
 * * *
 # Screenshots
 ## Carbon
-![C++](https://raw.githubusercontent.com/foxoman/qDarkSky/master/qDarksky.png)
+![C++](https://github.com/foxoman/carbon_Theme/blob/main/carbon.png?raw=true)
 
 
 ## Carbon Edge
+![C++](https://github.com/foxoman/carbon_Theme/blob/main/carbon_edge.png?raw=true)
+
 
 ## Carbo KDe
+![C++](https://github.com/foxoman/carbon_Theme/blob/main/carbon_kde.png?raw=true)
 
 
 # Install
 
 ## Windows
-`xcopy qdarksky.xml %APPDATA%\QtProject\qtcreator\styles`
+copy the .xml file to  `%APPDATA%\QtProject\qtcreator\styles`
 
 ## MacOS
-`cp qdarksky.xml ~/.config/QtProject/qtcreator/styles/`
+copy the .xml file to `~/.config/QtProject/qtcreator/styles/`
 
 ## Linux
-`cp qdarksky.xml ~/.config/QtProject/qtcreator/styles/`
+copy the .xml file to `~/.config/QtProject/qtcreator/styles/`
 
